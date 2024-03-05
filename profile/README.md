@@ -1,5 +1,4 @@
-## Hi there 👋 welcome to my Helia IPFS Playground Repository
-
+## Hi there 👋 welcome to the Helia IPFS Playground Repository
 
 This way I think this project will be able to be used from:
 - the desktop machine of a developer,
@@ -8,7 +7,6 @@ This way I think this project will be able to be used from:
 - a Fleek.co IPFS Free plan hosting or similar solution,
 - a Cluster of Raspberry Pi using K3S 
 - a Cluster of Kubernetes using K8S.
-
 
 🙋‍♀️ **Helia IPFS Playground Repository** intend to experiment and play with Helia and IPFS 
 The project started with [this code](  https://github.com/tombombadilom/helia-ipfs-cms-template) but as I'm studying other back-end hosting solutions, 
@@ -21,7 +19,19 @@ It will be for now structured in 4 different entities:
 
 🌈 Contribution guidelines - how can the community get involved?
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
+👩‍💻 Useful resources
+- Lib P2P:
+  - Blog
+  - Github
+  - Documentation
+- Helia
+  - Github
+  - Documentation
+- IPFS
+  - Github
+  - Documentation
+  - Some main applications and libs
+    - Kubo:
+    - orbitDB:
+    - Uplink :
+    - IPFS Desktop:
