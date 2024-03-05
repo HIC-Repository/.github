@@ -13,7 +13,7 @@ The project started with [this code](  https://github.com/tombombadilom/helia-ip
 It will be for now structured in 4 different entities:
 - The [HIC Front-End](https://github.com/HIC-Repository/HIC-Front) written in Typescript with React or maybe later in Svelte or something more agnostic.
 - The [HIC Back-End](https://github.com/HIC-Repository/Hic-Back), written in Typescript with Express.js.
-- The [HIC whole solution](https://github.com/HIC-Repository/HIC-FullStack), which will load the Front and the Backend and use Docker or docker-compose to assemble the whole application.
+- The [HIC Full-Stack](https://github.com/HIC-Repository/HIC-FullStack), which will load the Front and the Backend and use Docker or docker-compose to assemble the whole application.
 - The [HIC SelfHosted](https://github.com/HIC-Repository/Hic-SelfHost), Intended to be hosted in a simple bare metal server , LXS , VPS , Raspberry pi server ...
 - A [HIC Infrastructure](https://github.com/HIC-Repository/HIC-Infra) Terraform folder to write the implementation of the solution for Kubernetes in an infrastructure-as-code way.
 
