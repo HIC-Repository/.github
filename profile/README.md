@@ -24,7 +24,11 @@ This way I think this project will be able to be used from:
 - a Fleek.co IPFS Free plan hosting or similar solution,
 - a Cluster of Raspberry Pi using K3S 
 - a Cluster of Kubernetes using K8S.
+  
 🌈 Contribution guidelines - how can the community get involved?
+- Contact us
+- Everybody is welcome
+- New ideas appreciated
 
 👩‍💻 Useful resources
 - Lib P2P:
